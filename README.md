@@ -11,7 +11,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-![React Native](https://img.shields.io/badge/React%Native-764ABC.svg?&style=for-the-badge&logo=React%Native&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-764ABC.svg?&style=for-the-badge&logo=React%20Native&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
 
 ### Tools
